@@ -11,7 +11,7 @@ const App = () => {
         <Typography variant="h2" align="center">
           Memories
         </Typography>
-        <img src={memories} alt="memories" height="60" />
+        <img src={memories} alt="memories" heigth="60" />
       </AppBar>
       <Grow in>
         <Container>
